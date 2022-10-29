@@ -18,7 +18,7 @@ Some people who read this will just throw up their hands and say, "well, it's im
 
 ![](images-repro/repro-spectrum.png){width="429"}
 
-There's a tradeoff. Making things more reproducible is generally takes more work -- in a way that's frustratingly asymptotic.
+There's a tradeoff. Making things more reproducible generally takes more work -- in a way that's frustratingly asymptotic.
 
 Some industries are highly-regulated and need to be able to guarantee they can reproduce an analysis exactly -- down to the layer of machine instructions -- a decade later. In this world, the general reproducibility practice for an analysis is to take a physical piece of hardware that they know runs the analysis, make a backup or two, and just keep that physical piece of hardware running for many years.
 
